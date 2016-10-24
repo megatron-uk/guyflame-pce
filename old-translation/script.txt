@@ -1,0 +1,795 @@
+<string address="a180" romOffset="2380" header="191a0601">
+PUSH I
+</string>
+<string address="a180" romOffset="2380" header="191a0601">
+PUSH I
+</string>
+<string address="a18b" romOffset="238b" header="19170601">
+ いと゛う
+</string>
+<string address="a195" romOffset="2395" header="19170601">
+ ほきゅう
+</string>
+<string address="a19f" romOffset="239f" header="07050301">
+まほう
+</string>
+<string address="a1a7" romOffset="23a7" header="05050603">
+・いと゛う<endl/>
+・こうけ゛き・てったい
+</string>
+<string address="a1bd" romOffset="23bd" header="131a0c01">
+と゛の エリアて゛すか?
+</string>
+<string address="a1d0" romOffset="23d0" header="13170c03">
+と゛のマーカーて゛すか?
+</string>
+<string address="a1e3" romOffset="23e3" header="05050c01">
+と゛のユニットて゛すか?
+</string>
+<string address="a1f6" romOffset="23f6" header="131a0c01">
+ と゛こにいきますか?
+</string>
+<string address="a206" romOffset="2406" header="151a0a01">
+と゛こにかけますか?
+</string>
+<string address="a215" romOffset="2415" header="110a0a01">
+と゛れをかけますか?
+</string>
+<string address="a224" romOffset="2424" header="03040b01">
+ふ゛たいを はいちして くた゛さい
+</string>
+<string address="a23a" romOffset="243a" header="0b110b01">
+ まほう せいこう!
+</string>
+<string address="a249" romOffset="2449" header="0b110b01">
+ まほう しっは゜い
+</string>
+<string address="a258" romOffset="2458" header="0b060c01">
+ほきゅうホ゜イント:・・
+</string>
+<string address="a26b" romOffset="246b" header="080d1001">
+クリスタル   こ かいしゅう.
+</string>
+<string address="a282" romOffset="2482" header="090f0e01">
+まほうレヘ゛ル  になった.
+</string>
+<string address="a297" romOffset="2497" header="0a0c0d03">
+<endl/>
+ ほきゅう て゛きません
+</string>
+<string address="a2a9" romOffset="24a9" header="05040604">
+ いと゛う<endl/>
+ ほきゅう<endl/>
+し゛ょうほう セーフ゛
+</string>
+<string address="a2c7" romOffset="24c7" header="13190b02">
+<tile id="0x01"/> <tile id="0x02"/> <tile id="0x03"/> <tile id="0x04"/> <tile id="0x05"/> <tile id="0x06"/>
+</string>
+<string address="a2d7" romOffset="24d7" header="05040602">
+ 
+</string>
+<string address="a2dd" romOffset="24dd" header="070a1002">
+テ゛ィアスシティーへ もと゛るのた゛..
+</string>
+<string address="a2f8" romOffset="24f8" header="070a1002">
+レアリースへ ゆくのた゛..
+</string>
+<string address="a30d" romOffset="250d" header="070a1002">
+ヨークトへ ゆくのた゛..
+</string>
+<string address="a321" romOffset="2521" header="070a1002">
+ノートンシャーへ ゆくのた゛..
+</string>
+<string address="a338" romOffset="2538" header="070a1002">
+エスレサ゛ナールへ ゆくのた゛..
+</string>
+<string address="a350" romOffset="2550" header="070a1002">
+クローエンへ ゆくのた゛..
+</string>
+<string address="a365" romOffset="2565" header="070a1002">
+アイレースへ ゆくのた゛..
+</string>
+<string address="a37a" romOffset="257a" header="0f040c01">
+と゛のユニットて゛すか?
+</string>
+<string address="a38d" romOffset="258d" header="0c071006">
+まっていたそ゛.<endl/>
+<endl/>
+ひかりの おうよ!
+</string>
+<string address="a3a5" romOffset="25a5" header="04101006">
+<endl/>
+!!.....
+</string>
+<string address="a3b2" romOffset="25b2" header="0c071006">
+・・・・クリスタルか゛おしえてくれる.わたしにはわかるのた゛.<endl/>
+<endl/>
+カ゛イアのちからをひめた、この いしのことは゛か゛...
+</string>
+<string address="a3f8" romOffset="25f8" header="04101006">
+あなたはた゛れて゛すか?<endl/>
+<endl/>
+なせ゛、カ゛イアを...<endl/>
+わたしのことを...
+</string>
+<string address="a424" romOffset="2624" header="0c071006">
+すへ゛ては さた゛められておる.<endl/>
+さらは゛し゛ゃ!
+</string>
+<string address="a442" romOffset="2642" header="0c071006">
+むかしの し゛た゛いの はなしかね?
+</string>
+<string address="a459" romOffset="2659" header="04101006">
+そうて゛す.<endl/>
+<endl/>
+こた゛い エルスリート゛おうこくか゛、めつほ゛うした し゛た゛いの ちそうから、クリスタルは はっけんされていませんか?
+</string>
+<string address="a4a6" romOffset="26a6" header="0c071006">
+そのし゛た゛いは かんせ゛んにきえている.<endl/>
+<endl/>
+いせきふ゛つも たしょうは あるか゛、きろくか゛ふかんせ゛んた゛<symbol id="0xfe"/>・・・わたしよりはメアリー・シーンはかせを たす゛ねるといい.<endl/>
+<endl/>
+いまはレアリースの にしのほうにいるらしい.
+</string>
+<string address="a51e" romOffset="271e" header="0c071006">
+クリスタル・・・?<endl/>
+<endl/>
+それはヘンリー・ロート゛はかせにきいてくれ.<endl/>
+<endl/>
+わたしは なにもしらん.
+</string>
+<string address="a556" romOffset="2756" header="0c071006">
+わたしか゛けんきゅうしていたわけし゛ゃないの.<endl/>
+たた゛、ウォーレンシ゛ョセフの し゛ょしゅをしていたの.<endl/>
+<endl/>
+かれの やっていたこと...<symbol id="0xfe"/>て゛も、かなりいせ゛んのはなしよ <endl/>
+それに ほかに、スタンフ゛ラットレーはかせと・・・ た゛れた゛ったかわすれたけと゛・・・ 3にんて゛けんきゅうしていたの.<symbol id="0xfe"/>ウォーレンに きいてみて.<endl/>
+<endl/>
+かれは ひか゛しのほうに いるはす゛.
+</string>
+<string address="a618" romOffset="2818" header="0c071006">
+クリスタルか..<endl/>
+た゛いふ゛むかしのことた゛.<endl/>
+しかし、し゛つにきょうみふ゛かいものた゛った.<endl/>
+かつて し゛つさ゛いした おうこくか゛とつせ゛んきえてしまう.<symbol id="0xfe"/>そんなことか゛ほんとうに あるのた゛ろうか?<endl/>
+わたしも、スタンフ゛ラットレーも シ゛ャックフ゛ラウンはかせも みんなおなし゛きょうみから しゅっは゜つしたんた゛.<symbol id="0xfe"/>しかし、けつろんとして われわれのそうそ゛うをこえるものか゛て゛た.<endl/>
+<endl/>
+すへ゛てはそれか゛け゛んいんた゛<symbol id="0xfe"/>われわれのけんきゅうほうこくも、にき゛りつふ゛され、フ゛ラウンはかせは、それに なっとくせす゛アカテ゛ミーをた゛っかいした.<endl/>
+すへ゛ては それて゛おしまいになった.
+</string>
+<string address="a750" romOffset="2950" header="04101006">
+それは なんて゛すか?
+</string>
+<string address="a760" romOffset="2960" header="0c071006">
+われわれの りかいを こえたそんさ゛い...<endl/>
+なんというへ゛きかね..<endl/>
+<endl/>
+それか゛とうし゛のカ゛イアたいりくを おそった.<symbol id="0xfe"/>それか゛ すへ゛てを しょうしつさせた はんにんた゛.<endl/>
+<endl/>
+・・といっても、あなたには わかるわけもないた゛ろうか゛...<symbol id="0xfe"/>すへ゛てはシ゛ャックフ゛ラウンはかせか゛しっている.<endl/>
+<endl/>
+さ゛んねんなか゛ら、と゛こにいるのかは わからん.<symbol id="0xfe"/>スタン・フ゛ラットレーはかせなら しっているかもしれない.<endl/>
+<endl/>
+かれは ノートンシャーの きたにいる.
+</string>
+<string address="a850" romOffset="2a50" header="0c071006">
+そのことなら しってる. たふ゛ん、こんと゛のせんそうと なにか かんけいあるんた゛ろう.<endl/>
+<endl/>
+せんし゛つも、ウ゛ェルタ゛ース く゛んのやつらに きかれた.<symbol id="0xfe"/>しかし、わたしは なにもしらない <endl/>
+シ゛ェニーランク゛なら はかせの いるところをしってるかもしれない. かのし゛ょはエスレサ゛ナールの ひか゛しにいるらしい.
+</string>
+<string address="a8f9" romOffset="2af9" header="0c071006">
+フ゛ラウンはかせから、これを わたしてほしいって.
+</string>
+<string address="a919" romOffset="2b19" header="0c071006">
+キャサリンアルハ゛ートに きいてくれ.<endl/>
+<endl/>
+かのし゛ょは ひか゛しのほうにいる.
+</string>
+<string address="a947" romOffset="2b47" header="0c071006">
+フ゛ラウンはかせから たのまれているわ.<endl/>
+<endl/>
+あなたに これをわたしてくれと.
+</string>
+<string address="a974" romOffset="2b74" header="0c071006">
+よくきてくれた.シ゛ーク9せい.<endl/>
+ いや、シ゛ーク・シュタルマン.<endl/>
+ わたしは まっていたそ゛.
+</string>
+<string address="a9ad" romOffset="2bad" header="04101006">
+あなたは た゛れて゛すか?<endl/>
+<endl/>
+テ゛ィアスシティの ろうは゛といい.. <endl/>
+と゛ういうことた゛.
+</string>
+<string address="a9e2" romOffset="2be2" header="0c071006">
+わたしはウ゛ェルセ゛リアのケ゛ルツ・ホ゛ーセ゛ルと たたかい、そのとき、し゛くうのはてに あしをいれてしまった. ケ゛ルツか゛「カ゛イア」を き゛ゃくりようし、しっは゜いしたためた゛.<symbol id="0xfe"/>やつは そのちからて゛ きえ、わたしは このし゛た゛いにきた. そして、エルスリート゛もウ゛ェルセ゛リアも、れきしのなかて゛ しょうしつしたことを しったのた゛.<symbol id="0xfe"/>ケ゛ルツの あとのた゛いの おうか゛「カ゛イア」の はんさようりょくに めをつけ、おなし゛ことをしたら...<endl/>
+わたしのよそうは け゛んし゛つとなった.
+</string>
+<string address="aaf1" romOffset="2cf1" header="04101006">
+それをしんし゛るひとは いなかったのて゛すね..
+</string>
+<string address="ab0e" romOffset="2d0e" header="0c071006">
+さよう.<endl/>
+<endl/>
+わたしはむかし、「シ゛ーク・カイサ゛ー」と よは゛れていた.
+</string>
+<string address="ab39" romOffset="2d39" header="04101006">
+きえた おう のな..<endl/>
+<endl/>
+ て゛は あなたか゛!!
+</string>
+<string address="ab57" romOffset="2d57" header="0c071006">
+シ゛ーク・カイヘ゛ルト.もう としをとってしまったか゛ね. た゛か゛、きみか゛いきていることは しっていた. きみの しは、かくにんされていなかったからね. それに... あの ろうは゛..
+</string>
+<string address="abbd" romOffset="2dbd" header="04101006">
+あのひとは た゛れなのて゛すか?
+</string>
+<string address="abd2" romOffset="2dd2" header="0c071006">
+カ゛イアの し゛ゅつを シ゛ークそ゛くに つたえた まし゛ゅつしハ゛ーリン.その いちそ゛くた゛ <endl/>
+た゛からこそ きみのそんさ゛いをしりえた.
+</string>
+<string address="ac24" romOffset="2e24" header="04101006">
+そうた゛ったのか..
+</string>
+<string address="ac33" romOffset="2e33" header="0c071006">
+きみといろいろはなしたいことか゛あるか゛、いそか゛ねは゛ならん.スクロハ゛ヒ゛ッチか゛ねらっている. シ゛ーク9せい、きみは かれとたいけつすることになるた゛ろう.<symbol id="0xfe"/>しかし、いまのままて゛は かちめはない.<endl/>
+<endl/>
+「とうしんへい」を ふっかつさせるのた゛.
+</string>
+<string address="acba" romOffset="2eba" header="04101006">
+とうしんへい?
+</string>
+<string address="acc6" romOffset="2ec6" header="0c071006">
+キャサリンとシ゛ェニーからも わたされたとおもう.<endl/>
+<endl/>
+そして、わたしもさいこ゛の1ほ゜んをわたそう.
+</string>
+<string address="ad01" romOffset="2f01" header="0c071006">
+これをもって ウ゛ェルトさんみゃくの いちは゛ん たかいとやまのあるところへゆき、やまの こえをきくのた゛.<symbol id="0xfe"/>きみのカ゛イアのちからか゛ し゛ゅうふ゛んて゛あれは゛「とうしんの もん」へ みちひ゛かれるた゛ろう. そのもんに きみか゛たつとき...<symbol id="0xfe"/>て゛んせつの ひかりの きょし゛ん<endl/>
+<endl/>
+「とうしんへい」か゛ しゅつけ゛んする.
+</string>
+<string address="adae" romOffset="2fae" header="04101006">
+シ゛ーク・カイサ゛ーわたしとともに ゆきましょう.
+</string>
+<string address="adce" romOffset="2fce" header="0c071006">
+わたしは としおいた.カ゛イアの ちからも ほとんと゛なくしている. <endl/>
+スクロハ゛ウ゛ィッチと たたかえるのは きみた゛けた゛.
+</string>
+<string address="ae17" romOffset="3017" header="0c071006">
+まっていたそ゛!<endl/>
+シ゛ーク・シュタルマン.<endl/>
+<endl/>
+あのひいらい、 わたしは このときを まっていた.
+</string>
+<string address="ae4e" romOffset="304e" header="04101006">
+カ゛イアの ちからを あくようしようとし<endl/>
+<endl/>
+そのけっか、カ゛イアせ゛んと゛を めつほ゛うさせた.<symbol id="0xfe"/>そして いままた、<endl/>
+このちをほろほ゛そうとする.<endl/>
+<endl/>
+ゆるせん! ホ゛ーセ゛ル!!
+</string>
+<string address="aeb2" romOffset="30b2" header="0c071006">
+そうた゛. なにか゛わるい.<endl/>
+カ゛イアのちからは わたしのちからた゛.<endl/>
+<endl/>
+そして、それを きょた゛いにさせたのも このわたした゛.
+</string>
+<string address="aefa" romOffset="30fa" header="04101006">
+ならは゛、わたしは くた゛けちったカ゛イアのちからをあつめ、<endl/>
+<endl/>
+わたしの いのちの ほのおとともに きさまに しをおくってやる!
+</string>
+<string address="af41" romOffset="3141" header="0c071006">
+は゛かめ! 「カ゛イア」の しんの ちからをしらぬな...<endl/>
+<endl/>
+しぬのは おまえた゛!! わたしと、そして「まそうへい」か゛ このよを やみに してやる!!
+</string>
+<string address="af95" romOffset="3195" header="05110e04">
+そのいえに みこ゛とな けんか゛かさ゛ってあった. そのけん. かれはと゛こかて゛みた おほ゛えか゛あった.
+</string>
+<string address="afd0" romOffset="31d0" header="04101006">
+しつれいて゛すか゛、<endl/>
+あのけんは..<endl/>
+<endl/>
+もしやヘ゛ルウット゛け の...
+</string>
+<string address="affb" romOffset="31fb" header="0c071006">
+そうて゛す.
+</string>
+<string address="b006" romOffset="3206" header="04101006">
+せ゛ひ、おねか゛いしたい.
+</string>
+<string address="b018" romOffset="3218" header="0c071006">
+わたしも おともします.
+</string>
+<string address="b029" romOffset="3229" header="05110e04">
+そのいえの おくに、きんいろの もんしょうか゛あった. それは まちか゛いなく、みおほ゛えの あるものた゛った<symbol id="0xfe"/>ウット゛フィールト゛け<endl/>
+た゛いた゛いの かもんて゛ある
+</string>
+<string address="b083" romOffset="3283" header="04101006">
+しつれいて゛すか゛、<endl/>
+<endl/>
+あなたはウット゛フィールト゛けのかたて゛すか?
+</string>
+<string address="b0ad" romOffset="32ad" header="0c071006">
+そうて゛す.
+</string>
+<string address="b0b8" romOffset="32b8" header="05110e04">
+かれか゛わかれをつけ゛たとき<endl/>
+そこに ふるいかふ゛とか゛ おいてあった.<symbol id="0xfe"/>それは まちか゛いなく、と゛くし゛のもの.<endl/>
+まき゛れもない、ロウ゛ェックけ の ものた゛.
+</string>
+<string address="b111" romOffset="3311" header="04101006">
+あなたは...<endl/>
+<endl/>
+ロウ゛ェックけの ひとて゛すね?
+</string>
+<string address="b131" romOffset="3331" header="0c071006">
+そうて゛す.
+</string>
+<string address="b13c" romOffset="333c" header="0c071006">
+やみの ちからか゛うこ゛いている.やつらも このちからをさか゛している.なんとしても そしするのし゛ゃ.このクリスタルをやみのものにわたしてはならぬ.やみのものにわたったら、そのものをたおすのし゛ゃ.
+</string>
+<string address="b1a7" romOffset="33a7" header="0c071006">
+クローエンにいる、テ゛イフ゛・マークスンに あってくた゛さい. フ゛ラウンはかせのいるところか゛わかります.<endl/>
+かれはクローエンの にしのほうにいます.
+</string>
+<string address="b1ff" romOffset="33ff" header="0c071006">
+フ゛ラウンはかせか゛ まっています.<endl/>
+<endl/>
+アイレーヌの みなみにいます.
+</string>
+<string address="b22b" romOffset="342b" header="05110e04">
+かれは、し゛ょうきょうを<endl/>
+<endl/>
+せつめいした
+</string>
+<string address="b244" romOffset="3444" header="08071003">
+テ゛ィアースレの かか゛くりょくて゛ きょうかされた へいきか゛かんせいした.
+</string>
+<string address="b272" romOffset="3472" header="050e1607">
+シュートク゛ース -> シュートク゛ース 2<endl/>
+ハ゛トルク゛ース -> ハ゛トルク゛ース 2<endl/>
+  メタリオン  ->  メタリオン 2<endl/>
+<endl/>
+と なる.
+</string>
+<string address="b2cc" romOffset="34cc" header="080d1005">
+テ゛ィアースレく゛んは<endl/>
+ウ゛ェルタ゛ースのせんりょうちをうは゛いかえした.<symbol id="0xfe"/>そして、<endl/>
+その かか゛くりょくを てにいれあたらしい へいきをつくりた゛した.<symbol id="0xfe"/><endl/>
+ それは、まほうと かか゛くの か゛ったいしたものた゛った.
+</string>
+<string address="b342" romOffset="3542" header="060e1403">
+<endl/>
+ それは、「まほうきし」とよは゛れた.
+</string>
+<string address="b35b" romOffset="355b" header="0d080e04">
+かれに、<endl/>
+ メタリオンカスタムか゛<endl/>
+  あたえられた.
+</string>
+<string address="b37d" romOffset="357d" header="090d1405">
+そのとき、こ゛うおんとともに<endl/>
+<endl/>
+あたりは くらくなっていった..
+</string>
+<string address="b3a2" romOffset="35a2" header="04040601">
+あそこた゛!
+</string>
+<string address="b3ad" romOffset="35ad" header="08081409">
+つかわない<endl/>
+わさ゛<endl/>
+ほ゛うき゛ょ
+</string>
+<string address="b3c2" romOffset="35c2" header="080b1409">
+いなす゛ま<endl/>
+た゛いち<endl/>
+てんい
+</string>
+<string address="b3d5" romOffset="35d5" header="080e1409">
+はと゛う<endl/>
+き゛ゃくてん<endl/>
+てんせい
+</string>
+<string address="b3ea" romOffset="35ea" header="08111409">
+しゃてい<endl/>
+し゛くう<endl/>
+むりょく
+</string>
+<string address="b3fd" romOffset="35fd" header="08141409">
+はんしゃ
+</string>
+<string address="b406" romOffset="3606" header="0a0a1302">
+このマーカーは いと゛う す゛みて゛す
+</string>
+<string address="b420" romOffset="3620" header="0a0a1002">
+ここには いと゛う て゛きません
+</string>
+<string address="b435" romOffset="3635" header="0e1a1101">
+MP:・・<tile id="0x1a"/>AP:・・<tile id="0x1a"/>HP:・・
+</string>
+<string address="b44b" romOffset="364b" header="011a0b01">
+ 
+</string>
+<string address="b451" romOffset="3651" header="131a0c01">
+と゛のマーカーて゛すか?
+</string>
+<string address="b464" romOffset="3664" header="080e1001">
+ふ゛たいを はいちしてくた゛さい
+</string>
+<string address="b479" romOffset="3679" header="04322020">
+PRESENTED BY NCS c 1990
+</string>
+<string address="b495" romOffset="3695" header="06201420">
+「カ゛イアれき 4220ねん。」    <endl/>
+ウ゛ェルタ゛ースれんほ゜うは なそ゛の ちからを えて、たいりくしんこうを かいし した。<endl/>
+いっほ゜う、テ゛ィアースレれんほ゜うは、このうこ゛きを さっち、しんこうを そしすへ゛く、せ゛んく゛んに さくせん しれいか゛くた゛った。<endl/>
+ た゛か゛、ウ゛ェルタ゛ースく゛んの きょうた゛いな ちからのうえに、テ゛ィアースレく゛んは くせんをしいられ、せんかはかくた゛い していた..<endl/>
+
+</string>
+<string address="b631" romOffset="3831" header="030e2020">
+ちへいの かなた より せまりくる きょた゛いな やみ
+</string>
+<string address="b651" romOffset="3851" header="030e2020">
+ふたたひ゛ まく゛んの しんこうか゛ はし゛まる!!
+</string>
+<string address="b670" romOffset="3870" header="0a192020">
+<tile id="0xa0"/>GAME START<tile id="0xa0"/><endl/>
+<tile id="0xa0"/>GAME  LOAD<tile id="0xa0"/>
+</string>
+<string address="b68e" romOffset="388e" header="011a2020">
+スカイクロー  
+</string>
+<string address="b69d" romOffset="389d" header="011a2020">
+シュートク゛ース
+</string>
+<string address="b6ac" romOffset="38ac" header="011a2020">
+ハ゛トルク゛ース
+</string>
+<string address="b6bb" romOffset="38bb" header="011a2020">
+メタリオン   
+</string>
+<string address="b6ca" romOffset="38ca" header="011a2020">
+フォートレス  
+</string>
+<string address="b6d9" romOffset="38d9" header="011a2020">
+ヘヒ゛ーアーマー
+</string>
+<string address="b6e8" romOffset="38e8" header="011a2020">
+ランハ゛ートカスタム
+</string>
+<string address="b6f9" romOffset="38f9" header="011a2020">
+シュートク゛ース2
+</string>
+<string address="b709" romOffset="3909" header="011a2020">
+ハ゛トルク゛ース2
+</string>
+<string address="b719" romOffset="3919" header="011a2020">
+メタリオン2
+</string>
+<string address="b726" romOffset="3926" header="011a2020">
+ライトスヘ゜ンサー1
+</string>
+<string address="b737" romOffset="3937" header="011a2020">
+ライトスヘ゜ンサー2
+</string>
+<string address="b748" romOffset="3948" header="011a2020">
+ライトスヘ゜ンサー3
+</string>
+<string address="b759" romOffset="3959" header="011a2020">
+とうしんへい
+</string>
+<string address="b764" romOffset="3964" header="011a2020">
+メタリオンカスタム
+</string>
+<string address="b774" romOffset="3974" header="011a0b01">
+ウ゛ェルタ゛ースく゛ん
+</string>
+<string address="b786" romOffset="3986" header="031d2020">
+SELECT AND PUSH [I] BUTTON
+</string>
+<string address="b7a5" romOffset="39a5" header="0b0d0b02">
+テ゛ィアースレく゛ん      の さくせん
+</string>
+<string address="b7a5" romOffset="39a5" header="0b0d0b02">
+テ゛ィアースレく゛ん      の さくせん
+</string>
+<string address="b7a5" romOffset="39a5" header="0b0d0b02">
+テ゛ィアースレく゛ん      の さくせん
+</string>
+<string address="b7a5" romOffset="39a5" header="0b0d0b02">
+テ゛ィアースレく゛ん      の さくせん
+</string>
+<string address="b7a5" romOffset="39a5" header="0b0d0b02">
+テ゛ィアースレく゛ん      の さくせん
+</string>
+<string address="b7a5" romOffset="39a5" header="0b0d0b02">
+テ゛ィアースレく゛ん      の さくせん
+</string>
+<string address="b7a5" romOffset="39a5" header="0b0d0b02">
+テ゛ィアースレく゛ん      の さくせん
+</string>
+<string address="b7a5" romOffset="39a5" header="0b0d0b02">
+テ゛ィアースレく゛ん      の さくせん
+</string>
+<string address="b7a5" romOffset="39a5" header="0b0d0b02">
+テ゛ィアースレく゛ん      の さくせん
+</string>
+<string address="b7a5" romOffset="39a5" header="0b0d0b02">
+テ゛ィアースレく゛ん      の さくせん
+</string>
+<string address="b7a5" romOffset="39a5" header="0b0d0b02">
+テ゛ィアースレく゛ん      の さくせん
+</string>
+<string address="b7a5" romOffset="39a5" header="0b0d0b02">
+テ゛ィアースレく゛ん      の さくせん
+</string>
+<string address="b7a5" romOffset="39a5" header="0b0d0b02">
+テ゛ィアースレく゛ん      の さくせん
+</string>
+<string address="b7a5" romOffset="39a5" header="0b0d0b02">
+テ゛ィアースレく゛ん      の さくせん
+</string>
+<string address="b7a5" romOffset="39a5" header="0b0d0b02">
+テ゛ィアースレく゛ん      の さくせん
+</string>
+<string address="b7a5" romOffset="39a5" header="0b0d0b02">
+テ゛ィアースレく゛ん      の さくせん
+</string>
+<string address="b7a5" romOffset="39a5" header="0b0d0b02">
+テ゛ィアースレく゛ん      の さくせん
+</string>
+<string address="b7a5" romOffset="39a5" header="0b0d0b02">
+テ゛ィアースレく゛ん      の さくせん
+</string>
+<string address="b7c2" romOffset="39c2" header="0b0d0b02">
+ウ゛ェルタ゛ースく゛ん     の さくせん
+</string>
+<string address="b7df" romOffset="39df" header="080d1001">
+ し゛ょうほうの しゅうしゅう
+</string>
+<string address="b7f3" romOffset="39f3" header="090f1002">
+ランハ゛ートを<endl/>
+ よふ゛こえか゛ きこえた...
+</string>
+<string address="b812" romOffset="3a12" header="0b0d0b02">
+イニシアティフ゛          けってい
+</string>
+<string address="b82f" romOffset="3a2f" header="030a1a08">
+   MARKER     MP HP AP RG<endl/>
+<endl/>
+ <tile id="0x01"/> スカイクロー     05 05 03 --<endl/>
+ <tile id="0x02"/> シュートク゛ース   05 08 02 06<endl/>
+ <tile id="0x03"/> ハ゛トルク゛ース   03 06 05 08<endl/>
+ <tile id="0x04"/> メタリオン      04 08 06 --<endl/>
+ <tile id="0x05"/> フォートレス     06 14 08 04<endl/>
+ <tile id="0x06"/> ヘヒ゛ーアーマー   02 09 08 04
+</string>
+<string address="b8f6" romOffset="3af6" header="0c071006">
+いま いそか゛しいんた゛.<endl/>
+<endl/>
+あとにしてくれ.
+</string>
+<string address="b912" romOffset="3b12" header="0c071006">
+え? クリスタル?<endl/>
+<endl/>
+しらないな..
+</string>
+<string address="b92b" romOffset="3b2b" header="0c071006">
+いそか゛しいんた゛.<endl/>
+<endl/>
+た゛れか へ゛つのひとに きいてくれないか?
+</string>
+<string address="b952" romOffset="3b52" header="05110e04">
+その いえには、た゛れも<endl/>
+すんて゛いないようた゛.
+</string>
+<string address="b970" romOffset="3b70" header="0c071006">
+また あとにしてくれ
+</string>
+<string address="b97f" romOffset="3b7f" header="0c071006">
+<endl/>
+き゛ゃーーーーっ!<endl/>
+<endl/>
+あんたは た゛れた゛!?
+</string>
+<string address="b99c" romOffset="3b9c" header="0c071006">
+お?!<endl/>
+あなたは もしかして...<endl/>
+<endl/>
+あ、ひとちか゛いて゛した..
+</string>
+<string address="b9c2" romOffset="3bc2" header="0c071006">
+あなたは く゛んし゛んて゛すね.<endl/>
+<endl/>
+か゛んは゛ってくた゛さい
+</string>
+<string address="b9e5" romOffset="3be5" header="0c071006">
+
+</string>
+<string address="b9ec" romOffset="3bec" header="13140c01">
+
+</string>
+<string address="b9f2" romOffset="3bf2" header="131a0c01">
+ウ゛ェルタ゛ース く゛ん
+</string>
+<string address="ba05" romOffset="3c05" header="05110e04">
+ほのお の クリスタルを<endl/>
+<endl/>
+  てにいれた!!
+</string>
+<string address="ba23" romOffset="3c23" header="04101006">
+<endl/>
+カ゛イアクリスタルについて<endl/>
+<endl/>
+ なにか しりませんか?
+</string>
+<string address="ba46" romOffset="3c46" header="060d2020">
+シュートク゛ース2  03 10 04 08<endl/>
+ハ゛トルク゛ース2  04 08 06 --<endl/>
+メタリオン2     05 10 08 --
+</string>
+<string address="ba95" romOffset="3c95" header="03122020">
+ <tile id="0x0b"/> ライトスヘ゜ンサー1 05 06 -- --<endl/>
+ <tile id="0x0c"/> ライトスヘ゜ンサー2 04 06 -- --<endl/>
+ <tile id="0x0d"/> ライトスヘ゜ンサー3 05 05 -- --
+</string>
+<string address="baed" romOffset="3ced" header="03031004">
+   WEAPON    AP<endl/>
+ フ゛ラストサーヘ゛ル  12<endl/>
+ エネルキ゛ースライサー 20<endl/>
+ ク゛ラント゛ウエーフ゛ 26
+</string>
+<string address="bb37" romOffset="3d37" header="03031004">
+   WEAPON    AP<endl/>
+ サイオハ゛ルカン    12<endl/>
+ フラッシュカノン    20<endl/>
+ フル=フ゛ラスター   26
+</string>
+<string address="bb83" romOffset="3d83" header="06201420">
+すへ゛ては けんと まほうの ときより はし゛まった・・・・。<endl/>
+すへ゛てか゛ たいきょくとなる ふたつのそんさ゛いにより、せかいか゛つくられるいせ゛んより「カ゛イア」は そんさ゛いしていた。<endl/>
+そのため、この「カ゛イア」は あいたいする ふたつの そんさ゛いのと゛ちらにも えいきょうをあたえるものて゛あり・・・ <endl/>
+- はんと゛く ふのう -<endl/>
+<endl/>
+やみか゛「カ゛イア」をつかうとき、 せかいは はめつ するて゛あろう。
+</string>
+<string address="bc5d" romOffset="3e5d" header="06201420">
+そして、ひかりか゛「カ゛イア」を しはいするならは゛、せかいはえいえんの へいわを むかえるて゛あろう。<endl/>
+すへ゛ては「カ゛イア」か゛ゆいいつ せ゛ったいの しはいしゃを もとめるとき、これらの うんめいは 「カ゛イア」によりみちひ゛かれるのた゛。<endl/>
+<endl/>
+ー しょうしつ ー<endl/>
+<endl/>
+このときより、せかいは あたらしい し゛た゛いをむかえる。」
+</string>
+<string address="bd0e" romOffset="3f0e" header="06201420">
+シ゛ークヘルマン 1せい<endl/>
+    「カ゛イアせいて゛ん」 より<endl/>
+きゅうれきしアカテ゛ミーしょゆう<endl/>
+          カ゛イア4050ねんはっくつち:<endl/>
+ きゅうウ゛ェルタ゛ースれんほ゜う<endl/>
+ こうし゛ょう あとち ちか50メートル     「しんて゛ん いせき ち」より
+</string>
+<string address="bda5" romOffset="3fa5" header="09122020">
+<endl/>
+カ゛イアたいりくに、<endl/>
+<endl/>
+あくまの し゛た゛いか゛<endl/>
+<endl/>
+おとす゛れた...
+</string>
+<string address="b576" romOffset="3776" header="06201420">
+ しかし、ついに この し゛ょうたいを た゛は すへ゛く ひとりの おとこか゛ とくへ゛つ にんむに ちゃくにん した。かれの にんむは とくへ゛つ ふ゛たいをへんせいし、たいりくに ねむる「クリスタル」を さか゛した゛す ことて゛あった。<endl/>
+<endl/>
+ かれのなは エルヒ゛ン・ランハ゛ート。テ゛ィアースレく゛ん そうこうきし く゛ん た゛んちょう て゛ある。
+</string>
+<string address="bdd0" romOffset="3fd0" header="13180c01">
+ てんい の まほう
+</string>
+<string address="bddf" romOffset="3fdf" header="13180c01">
+き゛ゃくてん の まほう
+</string>
+<string address="bdf0" romOffset="3ff0" header="0c042020">
+やみの ちからを<endl/>
+<endl/>
+     おもいしれ!!
+</string>
+<string address="be0b" romOffset="400b" header="08152020">
+ホ゛ーセ゛ル!!<endl/>
+<endl/>
+ きさまの さいこ゛た゛!
+</string>
+<string address="be29" romOffset="4029" header="070e1203">
+<endl/>
+ハ゛ックアッフ゜メモリか゛ありません
+</string>
+<string address="be43" romOffset="4043" header="090a0e02">
+ハ゛ックアッフ゜メモリに<endl/>
+テ゛ータをほそ゛んしますか?
+</string>
+<string address="be67" romOffset="4067" header="130e0402">
+・はい<endl/>
+・いいえ
+</string>
+<string address="be74" romOffset="4074" header="0e100801">
+ほそ゛んしました
+</string>
+<string address="be81" romOffset="4081" header="09100e01">
+メモリか゛いっは゜いて゛す.
+</string>
+<string address="be96" romOffset="4096" header="090e0e02">
+カ゛イフレームのテ゛ータは<endl/>
+  ほそ゛んされていません.
+</string>
+<string address="bebb" romOffset="40bb" header="070d2020">
+くせんの すえ、<endl/>
+<endl/>
+テ゛ィアースレく゛んは やふ゛れた...
+</string>
+<string address="bee0" romOffset="40e0" header="06091420">
+ウ゛ェルタ゛ースれんほ゜うく゛んの しょうり...  それは、カ゛イアたいりくをあんこくか゛しはいするときて゛あった. へいわは うちくた゛かれ、きほ゛うの ひかりは しょうめつし、ひとひ゛とに のこされたのは せ゛つほ゛う た゛けて゛あった...
+</string>
+<string address="bf65" romOffset="4165" header="19170601">
+ てったい
+</string>
+<string address="bf6f" romOffset="416f" header="05050602">
+つつ゛ける しゅうりょう
+</string>
+<string address="bf80" romOffset="4180" header="08151120">
+ランハ゛ートは ひかりのきょし゛ん<endl/>
+「とうしんへい」 に のりかえた.
+</string>
+<string address="bfaa" romOffset="41aa" header="04101006">
+<endl/>
+こ、これは!!
+</string>
+<string address="bfb7" romOffset="41b7" header="080f1001">
+
+</string>
+<string address="7ee1" romOffset="80e1" header="070e2020">
+TO BE CONTINUED・・・<endl/>
+<endl/>
+ANOTHER GENERATION
+</string>
+<string address="7f0c" romOffset="810c" header="070d2020">
+なか゛く、くるしいたたかいのすえ、<endl/>
+ウ゛ェルタ゛ースれんほ゜うは やふ゛れ、<endl/>
+ついに ホ゛ーセ゛ルは たおれた...
+</string>
+<string address="7f4f" romOffset="814f" header="070d2020">
+そして..<endl/>
+カ゛イアたいりくに、ふたたひ゛へいわか゛<endl/>
+おとす゛れた....
+</string>
+<string address="7f7b" romOffset="817b" header="080f1001">
+
+</string>
+<string address="7f81" romOffset="8181" header="080f1001">
+
+</string>
+<string address="7f87" romOffset="8187" header="00202021">
+       GAIFRAME   STAFF<endl/>
+<endl/>
+EXECUTIVE PRODUCE Y・SHIRAKURA<endl/>
+    GAME DESIGN   C・SUZUKI<endl/>
+      PROGRAM     FUJISHIRO<endl/>
+  GRAPHICS DESIGN A・KAKITA<endl/>
+                  E・SUDA<endl/>
+ CHARACTER DESIGN S・NAKAI<endl/>
+                  K・KOBAYASI<endl/>
+                  E・KOYAMA<endl/>
+                  T・SAITO
+</string>
+<string address="8099" romOffset="8299" header="00212020">
+ MUSICS & EFFECTS H・NAKAYAMA<endl/>
+                  TAGUCHI<endl/>
+                  T・SUZUKI<endl/>
+                 (GOBLIN SOUNDS)  SPECIAL THANKS  S・YOSHIKAWA<endl/>
+                  SYSTEM BIT<endl/>
+                  NATSU SYSTEM<endl/>
+
+</string>
